@@ -1,4 +1,6 @@
 # Anon Leaks
+![alt text](https://github.com/depaix/anonleaks/blob/main/screenshot.png?raw=true)
+
 Anonymous Leaks source
 
 Just download the zip and publish in your public directory of your host :)
